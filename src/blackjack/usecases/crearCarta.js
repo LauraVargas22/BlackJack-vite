@@ -1,5 +1,5 @@
 /**
- * 
+ * Función para crear Carta HTML
  * @param {String} carta
  * @returns {HTMLImageElement} Imagen de retorno
  */
